@@ -1,0 +1,17 @@
+{
+  "name": "nielsnicola/kirby-hide-html-comments",
+  "description": "Hide HTML comments in Kirby output",
+  "license": "GPL-3.0-or-later",
+  "type": "kirby-plugin",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Niels Nicola",
+      "email": "dev@nielsnicola.xyz"
+    }
+  ],
+  "homepage": "https://github.com/nielsnicola/kirby-hide-html-comments",
+  "require": {
+    "getkirby/composer-installer": "^1.2"
+  }
+}
